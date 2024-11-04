@@ -7,6 +7,8 @@
 app.py'daki api key kisimlarini doldurunuz
 app.py'ı caliştiriniz
 
+https://youtu.be/cWbipiig5u8
+
 
 
 
