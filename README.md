@@ -27,4 +27,6 @@ pylatex
 MiKTeX
 
 ## Authors
-[Berke Bünyamin Süle]([https://github.com/kullaniciadi](https://github.com/berkesule))
+[Berke Bünyamin Süle](https://github.com/berkesule)
+[Mehmet Çelebi](https://github.com/Celebimehmet34)
+
